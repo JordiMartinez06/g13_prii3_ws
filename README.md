@@ -1,8 +1,5 @@
 # Grupo 13 - PRII3 - Sprint 1
 
-Un nodo de ROS2 hace que la tortuga de **turtlesim** dibuje el número **13** sola.
-Tiene 3 servicios para detener, reanudar y reiniciar el dibujo.
-
 ## 0. Requisitos
 
 Ubuntu 22.04 con ROS2 Humble. Si falta algo, instalar en una terminal:
